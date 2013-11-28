@@ -1,4 +1,4 @@
-uDoc-Document-Markup-Language
+uDoc Document Markup Language
 =============================
 
 uDoc is a MicroXML &lt;http://dvcs.w3.org/hg/microxml/raw-file/tip/spec/microxml.html> markup language specifically designed for authoring topic-oriented documentation.
